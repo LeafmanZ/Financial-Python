@@ -1,4 +1,4 @@
 # Financial-Python
-Doing some random financial work with python
+[Python] Doing some random financial work with python
 
 CR_HHI: Calculates concentration ratio and HHI of industries
