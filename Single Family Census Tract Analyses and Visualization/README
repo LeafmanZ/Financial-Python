@@ -1,0 +1,14 @@
+RAUTHOR: JIM ZIELEMAN
+PROGRAM: ANALYSES AND VISUALIZATION OF SINGLE FAMILY CENSUS TRACT
+
+Plots to browser and also saves as jpeg in the same working directory as the python program.
+
+Dependencies:
+pandas
+easygui
+plotly
+psutil
+
+Collecting Data Example:
+https://www.fhfa.gov/DataTools/Downloads/Pages/Public-Use-Databases.aspx
+Download Single-Family Census Tract File - 2019 Freddie Mac Data then unzip.
