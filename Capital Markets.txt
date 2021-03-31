@@ -1,0 +1,1051 @@
+
+Pamela Peterson Drake, Ph.D., CFA
+James Madison University
+
+Table of Contents
+
+I.	Financial markets	1
+A.	The investment setting	1
+B.	Calculating returns	2
+C.	Types of markets	4
+1.	Money markets v. capital markets	5
+2.	Security offerings	5
+3.	Trading mechanics	9
+4.	Recent changes in markets	16
+5.	Financial meltdown	19
+II.	Securities	21
+A.	Direct investing	21
+1.	Money market securities	22
+2.	Capital market securities	24
+3.	Derivatives	29
+B.	Indirect investing	30
+1.	Investment companies	30
+2.	Private equity	34
+3.	Hedge funds	34
+III.	Careers in capital markets	36
+A.	Certifications, examinations, and other designations	37
+1.	FINRA qualification exams	37
+2.	The Chartered Financial Analyst designation	37
+3.	The Certified Financial Planner designation	38
+B.	Career paths in capital markets	38
+1.	Financial analyst	38
+2.	Investment banking analyst	39
+3.	Security dealers	39
+4.	Trader	39
+5.	Financial advisor	39
+6.	Broker	40
+IV.	Index	41
+V.	Exhibits	44
+
+
+
+W
+hen we think of markets and securities, we often think of the one of the national equity markets, such as the New York Stock Exchange or Nasdaq, and we think of stocks.  But there is much more to markets and securities.  Not only are there many forms of financial markets, there are also many varieties of investable securities.  The purpose of this reading is to explore financial markets and securities that trade in these markets.  As part of this exploration, we provide some historical background or historical data to provide the picture of an ever-changing landscape.  Not only to markets evolve over time to technological change, but securities’ characteristics change, regulations changes, and investor appetites for securities’ features and risk changes.
+Financial markets
+When people think of financial markets, they generally think of the New York Stock Exchange (NYSE), but there is more to financial markets than the NYSE. A financial market is any market in which a financial instrument trades. Financial instruments include both debt and equity instrument, where debt represents an obligation and equity represents ownership.  But financial instrument may also be short-term, that is, with original maturities less than one year, or long-term, with original maturities greater than one year.  We generally refer to a market for short-term securities as a money market, and refer to a market for long-term securities as a capital market.  Markets may involve physical or electronic trading and are essential for the economy because they bring together the entities that need funds and the entities that have funds to invest. 
+The investment setting
+An investment is simply any expenditure at a point in time that is expected to generate future cash flows. We expect that the investment will produce future cash flows sufficient to compensate the investor for the opportunity cost of the funds and risk. The opportunity cost of funds is what investors could have earned in a similar-risk investment.  We often refer to this opportunity cost of funds as the required rate of return because this is the minimum return necessary to compensate an investor for what they could earn if they invested their funds in the next, best opportunity for a similar level of risk. Both risk and return are important in evaluating any investment.
+
+Financial instruments differ with respect to their risk and returns.  A U.S. Treasury Bill (T-Bill) has no risk of default; i.e., it is a default-risk-free security. The return you earn on a T-Bill is often referred to as the risk-free rate of interest.1
+
+Other investments, such as corporate bonds and common stocks, have additional risk, but also a higher expected return.  Derivatives, which include warrants, options, and futures, all have much higher potential returns – and much higher risk.  As the name implies, a derivative security derives its value from some other asset, such as a stock.
+
+You will note that we refer to the return as an expected return.  This is what is expected and hence reflected in the investment’s value.  The actual yields on these investments – that is, what the investor earns -- will differ from the expected returns because there is uncertainty associated with the investment.
+
+If we look back on returns historically, we see that the level and volatility of returns is consistent with the expectations regarding risk and return.  Consider the returns in Exhibit I1 for money market funds, corporate high-rated bonds, stocks (represented by the S&P 500 index), and gold.  The money market returns are low but have very little variation from year to year; stocks and gold produced the higher returns, but these investments also had the greater volatility.
+
+Exhibit I1 	Historical investment returns, 1999-2016
+
+Source: Wall Street Journal, “Year in Review,” various years.
+Calculating returns
+We often describe a return on an investment in terms of an effective annual holding period – that way, no matter the maturity of the investment and the holding period, we can compare returns.  We calculate the return for one year on an investment as:
+
+Holding period return=  (?(Ending value@of investment)+?(Cash flow@received during period)-?(Beginning value@of investment))/(Beginning value of investment)
+
+For a stock, the cash flow during the period may be dividends, whereas for a bond this cash flow may be interest in the form of coupon payments.
+
+The basic idea is to convert returns in an annual return.  If the maturity of the instrument is less than one year, we need to convert this into an annual return by compounding.  If the maturity of the instrument is greater than one year, we do this by averaging – but in a special way.  There are many conventions in finance that dictate how to represent returns, but the goal is to ensure comparability among financial instruments.
+
+When we refer to returns over a multiple of years, we state returns on an average annual basis.  By average, we mean geometric average, not arithmetic average. For example, consider an investment that produces the following annual returns:
+
+YearReturn201520%201615%201725%
+The geometric average annual return is:
+
+Geometric average annual return= ?((1+0.2)(1+0.15)(1+0.25))-1=19.928%
+
+Why do we add one?  Because this allows the compounding of each return.  To see this, imagine if you had $1.  If you invest it after one year, you have $1.2.  If you then get a return of 15 percent, you then will have $1.38; the 15 percent is earned on not just the $1 invested, but on its growth in the first year. In other words, you earn 15 percent on $1.2.  In the third year, you have a return of 25 percent (earned on the $1.38), so you end of with $1.725.  Your average return over the three years is 19.928 percent.
+
+The arithmetic average annual return, which in this example is 20%, is not an accurate measure of the three-year return performance because it ignores compounding from period to period.  The geometric return is also referred to as the time-weighted return or the geometric mean return or simply the geometric mean.
+
+Example: Annual returns
+
+Problem
+
+Consider the following returns on an investment.
+
+YearReturn201510%2016-5%201720%
+What is the average annual return on this investment?
+
+Solution
+
+Return= ?((1.10)(0.95)(1.20))-1=7.837%
+
+Taking the third root of a number is equivalent to taking the number to the 1/3 power. How do you take a value to the 1/3 power?  Using an HP10B calculator, use the yx key.  Using a TI-83/84 calculator, use the ^ key.
+Types of markets
+A market is simply a means of bringing buyers and sellers together for the transfer and trade of goods and services.  A market facilitates the flow of funds from one party to another.  
+
+Well-functioning markets are essential in a capitalistic society.  The characteristics of a good market include:
+
+ Availability of information at no or low costs.
+ Liquidity, which is the presence of ready buyers and sellers.
+ Price continuity, which means that there are minimal changes in prices when transactions are taking place.  
+ Low transactions costs.
+ Informational efficiency, such that prices of assets in the market reflect all available public information.
+
+Financial markets, in general, are offer a means for firms to raise funds.  Financial intermediaries, such as investment banks and commercial banks, facilitate the flow of funds between investors and firms, as shown in Exhibit I2. 
+
+Exhibit I2 	Firms, financial markets, investors, and financial intermediaries
+
+
+Money markets v. capital markets
+We can classify financial markets into two markets based on the maturity of securities: money markets and capital markets.  Short-term, highly liquid securities are traded in money markets, primarily for liquidity purposes. Short-term in this context is typically one year or less.   Money market securities trade over-the-counter, through electronic communication.
+
+Short-term securities include those issued by governmental units, such as the U.S. Government, and businesses.  
+
+GovernmentBusinesses (non-financial)Financial institutionsUS Treasury bills
+US Government agency securitiesCommercial paper
+Repurchase agreementsCertificates of deposit
+Eurodollar deposits
+Federal funds
+Bankers’ acceptances
+Longer-term securities are traded in the capital markets.  These securities include both debt obligations and equity interests:
+
+GovernmentBusinesses (non-financial)Financial institutionsUS Treasury Notes
+US Treasury Bonds
+US Government agency bonds
+Notes
+Long-term bonds
+Preferred stock
+Common stock
+Asset-backed securities
+Notes
+Long-term bonds
+Preferred stock
+Common stockSecurity offerings
+Security offerings are made in two types of capital markets: primary and secondary. The primary capital market is the market for new securities, generating new capital to the issuer, whereas a secondary capital market is a market for trading of securities among investors.  The registration of securities in public markets is regulated by the Securities and Exchange Commission (SEC), which receives its authority from the Securities Act of 1933.
+Primary capital markets
+Investment bankers are important in the primary market because they are often used to help bring the security issue to investors.  The process of bringing securities to the markets is referred to as underwriting.  There are different types of underwriting arrangements made between the underwriter and the firm raising capital:
+
+ A negotiated bid, in which the issuer and the underwriter negotiate the public offering price.
+ A competitive bid, in which underwriters submit proposals for the purchase of the securities and the underwriter submitting the best bid is awarded the securities.
+ A best-efforts offering, in which the investment banks do not commit to a specific number of securities that it will sell, but rather uses their best efforts to sell the security to investors.
+
+if several are used in the form of an underwriting syndicate.  The lead underwriter is the underwriting firm in charge of the record-keeping and is also referred to as the book runner.  The basic structure of a syndicate is shown in Exhibit I3.
+
+In the negotiated and competitive offering, the underwriter(s) buy the securities from the issuer and then sell these securities to investors. In the case of a best-efforts offering, the investment banker does not buy the shares from the issuer.  
+
+Under Rule 415 that is promulgated under the Securities Act of 1933, a company may file a shelf registration for securities, which stays “on the shelf” until the issuer is prepared to offer any number of securities within the registered amount.  These registrations provide the issuer with more flexibility in the timing of any issues included in the registration. 
+
+And in addition to offering securities for sale to the public, an issuer may also sell securities directly to a small number of investors in a private placement under Rule 144 under the Securities Act of 1933.  This rule allows a company to sell restricted or control securities to an investor, who can then resell them to another investor without filing the typical registration statements.2
+
+Can a company list its stock on an exchange for public trading without using an underwriter and an initial public offering?  Yes, it can use a direct listing.  This will save the costs associated with an underwriter and a public offering road show, but the registration documents required by the SEC are different than those of an initial public offering.
+
+
+Exhibit I3 	Primary offerings of securities
+
+
+
+
+The end of Wall Street as we knew it
+
+The meltdown of Wall Street in 2008 led to the demise of several firms that did a great deal of investment banking. Firms such as Lehman Brothers and Bear Stearns no longer exist.
+
+Firms are generally ranked based on their global underwritings. In 2019, for example, the leading investment banks globally were Goldman Sachs, JPMorgan, Morgan Stanley, and Citi.  
+Secondary capital markets
+In a pure auction market, buyers and sellers submit bids to a central location. These buy and sell orders are matched by broker.  In a dealer market, the dealers – who are individuals – own securities.  They stand ready to buy or sell securities and will quote a bid and an ask price.   Brokers, who represent investors who wish to buy or sell, then shop around for dealer with best bid or ask. 
+
+In a call market, the trading of individual stocks takes place at specified times. One party determines the single price that satisfies the most orders and then all transactions at this price.  In a continuous market, trades occur whenever the market is open, and the prices are determined by auction or by dealers.  In the New York Stock Exchange, for example, the opening price is determined by a call market, but then trading during the trading hours is determined by the continuous market.
+
+In the U. S. there are three major securities markets: 
+
+ The New York Stock Exchange Euronext, often simple referred to as the New York Stock Exchange (NYSE), which includes NYSE Arca;
+ The National Association of Securities Dealers Automated Quotation (Nasdaq) System; and 
+ The American Stock Exchange (AMEX)
+
+The focus of each of these markets is different.  The NYSE focuses on firms with larger capitalization, and the Nasdaq includes many small capitalization firms. However, there are some large market capitalization firms on the Nasdaq, including Microsoft (MSFT), Amazon (AMZN), and, more recently, PepsiCo (PEP).
+
+Other significant financial markets in the US include the Boston Stock Exchange, the CME group, and the Chicago Board Options Exchange (CBOE).
+
+The NYSE is the largest stock exchange in the US in terms of the market value of shares traded, whereas the CBOE is the largest options exchange.  National exchanges outside the U. S. include the London Stock Exchange (LSE) and the Tokyo Stock Exchange (TSE).  
+
+The Nasdaq is the second-largest U.S. exchange. Up until mid-2006, Nasdaq operated as the largest U.S. an over-the-counter market. An over-the-counter market has no physical presence, but rather trading is carried out over computers.   The Nasdaq was created in 1971 by the National Association of Securities Dealers (NASD) to become the first electronic market in the U. S.  The Nasdaq has three tiers of securities, distinguished by listing standards and liquidity: Nasdaq Global Select Market, Nasdaq Capital Market, and National Global Market.  The most rigorous listing standards are imposed on the Global Select Market.
+
+One of the distinguishing differences between the NYSE and Nasdaq markets is the listing standards.  For example, the NYSE requires that the company be much larger in terms of market value of equity, net income, and share trading volume that is required by the Nasdaq market.
+
+ NYSE listing requirements
+ Nasdaq listing requirements
+
+The Pink Sheets
+
+You have likely heard of the pink sheets, which is an electronic system that provides quotes of over-the-counter securities. Dealers provide their bid and ask quotes to this system (operated by Pink Sheets LLC) and brokers can then view these quotes. How do you know if a stock is on the pink sheets?  Because its ticker symbol ends in “PK”.
+
+Stocks quoted in this manner are generally penny stocks.  A penny stock is a name generally associated with stocks that trade for less than $5 per share.  Because of the illiquid nature of the market for penny stocks, the bid-ask spread is large, and it is difficult to sell these stocks because of this large spread and the thin market (that is, low traded volume of shares).  Hence, these are likely illiquid investments.
+
+There are no listing requirements for companies on Pink Sheets.  The companies whose stocks are on the Pink Sheets are very small, and the market for their stock is generally quite thin. 
+
+Investors trading pink sheet listed companies should be aware that the companies whose stocks are on the pink sheets often do not file to file financial statements – or any other type of disclosure – with the Securities and Exchange Commission.  However, the SEC does regulate how these stocks, and require the investor be informed of the nature of penny stocks, be approved to trade such stocks, and to disclose risks of the investment as well as the compensation that the broker/dealer receives.3
+
+Many of the current email and social media scams involve pumping up the price of companies with stocks on pink sheets and then dumping the stocks. These pump-and-dump schemes try to take advantage of uninformed investors. The companies whose stock is hyped are most often unaware of these schemes.
+Trading mechanics
+You can see the general process of executing trades in Exhibit I4.  A difference between the markets is the procedure for trading. The NYSE is an auction market, whereas the Nasdaq is a dealer market.  In the Nasdaq, investors buy from and sell to a dealer. In the NYSE, on the other hand, investors are buying and selling between each other, with bidding among investors.  In the Nasdaq market, market makers, who we refer to as dealers, manage the process by working with investors.  In the NYSE market, the specialist manages the process by matching buyers and sellers. 
+ 
+Up until the NYSE going public in early 2006, members of the NYSE bought seats on the exchange. The last seat on the NYSE sold for $3.55 million on December 30, 2005.  When the NYSE merged with Archipelago Holdings in 2006 to become NYSE Arca, seat holders converted their ownership in the exchange to cash and public shares in the new company, with each seat worth $6.3 million in terms of cash and shares. 
+
+When NYSE Arca merged with Euronext N.V. in 2007, becoming NYSE Euronext the ability to trade on the floor of the exchange is no longer seat-based.  NYSE Euronext was acquired by the Intercontinental Exchange (ICE) in 2013. ICE consists of twelve exchanges and over 12,000 listed securities and contracts.  The NYSE market continues as the leading exchange for medium and large US companies.
+
+There are different types of exchange members:  
+
+ Specialists, who are members who match buy and sell orders, and act as dealers, maintaining an orderly market.
+ Floor brokers, who are independent members who act as brokers for other members, executing buy and sell orders.
+ Commission brokers, who are employees of member firms who buy and sell for customers of firm; also referred to as house brokers.
+ Registered traders, who are members who buy and sell for their own accounts; also referred to as independent brokers.
+
+In the case of trading on the NYSE, the investor contacts a broker to specify the trade and then the broker contacts floor broker, who places order with specialist. The specialist is a member of the exchange who is responsible for maintaining an orderly market, providing capital and stabilizing prices.  The specialist brokers the deal, finding the other side of the transaction. There is only one specialist for a given stock and a specialist may perform this function for any number of stocks.
+
+The Nasdaq, on the other hand, operates as a dealer market. In a dealer market, there are any number of competing dealers, or market makers, for a stock.  These market makers facilitate trading of shares by maintaining an inventory in a stock and posting bid and ask prices for that stock that they will honor. In the Nasdaq system, individual investors, through their brokers, therefore can “shop around” electronically for the best price for a given transaction.   
+
+
+Exhibit I4 	Order Execution
+
+
+
+Though the market mechanisms differ between the NYSE and the Nasdaq, there is not much difference, in effect, between a market maker on Nasdaq and a specialist on the NYSE. With changes in the markets in the past few years, there is an approaching convergence in trading mechanisms among the markets. 
+
+Types of orders
+Investors may submit orders that specify buying or selling at whatever is the current price, or they can specify a price.  The different types of orders are as follows:
+
+ Market order: buy or sell at current price
+ Limit order: buy or sell at specified price
+ Stop loss order: sell if price below a specified price. 
+ Stop buy order: buy if price above a specified price.
+
+Investors may also buy on margin. Buying “on margin” is the purchase of stock by borrowing portion of purchase price. The investor pays interest to the brokerage at the call money rate. The initial margin requirements are set by the Federal Reserve (currently 50%).4  After the initial purchase, an investor must have equity in the account that meets the maintenance margin.  The equity in the account is:
+
+Investor’s equity = Market value of stock – amount borrowed
+
+The maintenance margin is a specified minimum equity as a percentage of the value of the account.  The maintenance margin set by the Federal Reserve is currently 25 percent, but brokerages may require more (say, 30%).  If the maintenance margin is not met, the broker will make a margin call, which requires the investor to put more equity into the account. If more equity is not placed in the account, the broker will sell the stock to satisfy the call.  
+
+The profit or loss on buying stocks on margin must factor in the commissions on the purchase and sale, as well as any interest on the loan.
+
+?(Profit or loss@buying on margin)= ?(Proceeds @from sale)- ?(Commission@on sale)- ?(Cost of@shares)- ?(Commission@on purchase of shares)- ?(Interest@on loan)
+
+The return on the margin transaction over a period is therefore:
+
+Return on a margin account=  (Profit or loss)/(Initial equity)
+
+Compared to the return from buying and selling stocks without margin loans, margin loans exaggerate any profits or losses.
+
+Example: Effect of margin loans on returns
+
+Problem
+
+Suppose you buy 100 shares of stock at $50 per share and you borrow $2,000 at the call money rate of 8%. This means that your initial equity investment is $3,000. If transactions costs are 1% for buying and for selling, what is the return on this one-year transaction if the stock price in one year is:
+ $40?
+ $70?
+
+Solution
+ At $40 per share, your loss is $4,000 –  40 – 2,000 – 3,000 – 50 – 160= –$1,250, or a return of -$1,250 ÷ $3,000 = -41.67%. [If there was no borrowing, the loss would have been -$1,090 or $1,090 ÷ $5,000 = -21.8%]
+
+ At $60 per share, your profit is $6,000 – 70 – 2,000 – 3,000 – 50 – 160 = $1,720, or a return of $1,720 ÷ $3,000 = 57.33%.  [If there was no borrowing, the profit would have been $1,880 ÷ $5,000 = 37.6%.]
+
+Example: Buying on margin
+
+Suppose you buy 100 shares of ABC stock at $50 per share: total cost = $5,000, borrowing 50%, or $2,500.  And suppose that the maintenance margin is 30%, that the interest on borrowing is 8% per year, and the transactions cost are 1% for both buying and selling shares.
+
+ If the stock’s price goes to $60/share, your equity is $6,000-2,500 = $3,500 
+ In terms of the equity percentage, $3,500 ÷ $6,000 = 58.333%
+ If the stock’s price goes to $40/share, your equity is $4,000-2,500 = $1,500
+ In terms of the equity percentage, $1,500 ÷ $4,000 = 37.5%
+
+What would the stock’s price have to be before there is a margin call?
+
+
+
+The stock’s price would have to decline to $35.71 per share before there is a call. 
+
+
+The use of a margin loan increases the leverage (and, hence, risk) of the investment:
+Different types of prices
+Though you may look up a stock’s price on one of the many online sources of financial data, there are actually two prices for a stock at a time:
+
+ The bid : What a buyer is willing to pay for a specified amount of stock.
+ The ask: What a seller is willing to take for a specified amount of stock.  The ask price is higher than the bid price.
+
+If you want to buy a stock, you pay the ask price, which is higher than the bid price; if you want to sell the stock, you sell it at the bid price.  Different market makers have different bid-ask spreads, so you brokers should try to obtain the best bid or ask for their customers by shopping market makers.
+
+The spread (also referred to as the bid-ask spread) is the difference between the ask and the bid price. This is the compensation that the market maker receives for handling the trade.  You only see the explicit cost that the broker charges, but the bid-ask spread is a cost nevertheless.  The riskier or less liquid a stock, the wider the spread because this compensates the market maker for the risks in dealing in the stock.
+
+How does Robinhood make its money?
+
+Robinhood is a brokerage that began in 2013 and allows its customers to buy and sell stocks without commission.  Though it does have commission-based services beyond the basic free service, it makes its money through:
+ Earning interest on cash that customers have in their account that is not currently invested. 
+ Payments from order-flow (that is, sending transactions to market makers). Robinhood sends its orders not to the public market, but rather to specific market makers. Market makers make their money on the spread and provide some remuneration to brokers sending orders to them.
+ Fees for access to margin loans for the Robinhood Gold account, whether you borrow or not.
+
+Is Robinhood around for the long term?  Payments for order flow are controversial because of the inherent conflict of interest and may be regulated out of existence in the future. With 50 percent of its income from payments for order flow, this may be an issue in the future.
+ 
+Short sales
+A short sale (or “shorting”) is the sale of stock you do not own.  There are restrictions to short sales, which affect the profitability of these transactions.  The primary restriction has been the uptick rule.  This rule requires that the price of short sale must be higher than last trade price and is intended to prevent downward manipulation of stock prices through shorting.  However, the uptick rule is not in force currently. The uptick rule was ended in June of 2007; following the end of this rule, short selling increased.  In response to the market turmoil in August of 2008, the SEC restricted the short selling on financial stocks, which dampened short selling significantly, as you can see in Exhibit I5.
+
+Another restriction is that short sellers must pay any cash dividends to the party who lent the stock.  Because the shorting investor is selling stock he/she does not own, the “lending” shareowner must be compensated for any dividends not received from the stock. 
+A trader earns a profit from short selling when the price goes down by more than the commission and any cash dividends:
+
+?(Profit or loss@buying on short sale)= ?(Proceeds @from sale)- ?(Commission@on sale)- ?(Cost of@shares)- ?(Commission@on purchase of shares)- ?(Dividends@on shares)
+
+When you buy a stock, the most you can lose is the value of the stock.  However, when you sell stock short, you face, potentially, an unlimited downside risk.  And this is what makes short selling so risky.5 Combining this risk with the fact that there are other short sellers out there of the same security, if the market price of the stock rises, there may be a short squeeze in which many traders are clamoring for the stock, resulting in upward pressure on the stock’s price – not what short sellers would like to see.   
+
+In the past, the short interest (that is, the number of shares sold short) tended to increase as the level of the market increases. However, this pattern has changed in recent years, likely because investors have found other means of positioning their investments when they have the expectation of a declining stock price (e.g., using put options).
+
+An example of short interest
+
+Consider Sirius XM Holdings (SIRI), which at the end of November 2017 had a short interest of 228,796,159 shares.  This represented slightly more than 16 percent of the firm’s public float, where float is the number of shares outstanding.  Based on its average daily volume of shares trading of over 14 million per day, it is estimated that it would take 16 days of trading to “cover” or satisfy the short interest (that is, 228,796,159 ÷14,185,169).
+
+If an investor sells shares that they neither own or borrow, this transaction is referred to as a naked short sale.  The strategy is that the investor intends to buy back shares within the three-day settlement period.  If the investor does not buy back the shares, there is a failure to deliver, or simply fail. Naked short selling does not violate securities laws, but there are times in which this causes problems for the brokerage firm involved in the original sale of securities in the transaction.
+
+
+Exhibit I5 	Short interest in NYSE listed stocks, 2005 through August 2008
+
+Source: NYSERecent changes in markets
+Technology and global competition are changing the way markets operate and are affecting the spirit of cooperation among markets.  In addition, the trading scandals in recent history have resulted in tightened regulatory scrutiny of these self-regulated markets:  
+
+ In the 1990s, the SEC fined Nasdaq companies and required the NASD to increase self-policing when it was found that dealers fixed spreads (that difference between the bid and the ask, which is the profit the dealer makes on the transactions).   [
+ In 2003, the NYSE was embroiled in a scandal involving the compensation for its chairman, Richard A. Grasso. These scandals and other events have led to changes in the markets and governing of the markets.
+ In 2004, five of the specialist firms on the NYSE reached a settlement with the SEC regarding charges of trading ahead of public limit orders.
+ In 2004, the SEC focused attention on abuses in mutual fund shares trading, such as late-trading trading, in which trading for some investors was allowed after 4 p.m. at the 4 p.m. pricing, and market timing, and late-trading that violated the funds’ prospectuses.   
+ In 2005, the SEC focused attention on trading abuses by specialists on the NYSE.  The SEC found that specialists were “trading ahead” of customers, hence benefiting personally from the inside information that they possess regarding customer buy and sell orders.
+
+In addition, changes in laws and regulations have had a significant impact on markets and trading, including:
+
+ Financial Services Modernization Act of 1999, which allows banks, brokerages, and insurance companies to offer investment services.
+ New rules under Regulation NMS, adopted by the Securities and Exchange Commission, June 2005, 
+ Requires trading centers to have procedures to prevent execution of trades at inferior prices;
+ Fair and non-discriminatory access to quotations;
+ Prohibits sub-penny quotations; and 
+ Requirements for consolidating, distributing and displaying market information.
+
+We also see a movement toward mergers of markets, creating more global trading markets.6
+Trading innovations
+Innovations that affect the trading of securities in the past two decades include: 
+
+ The Super Display Book, or Super-Dot is an electronic order routing system used by the NYSE for trades of less than 2,100 shares for market orders and less than 30,100 shares for limit orders.
+ Intermarket Trading System (ITS). Connects NYSE, AMEX, Nasdaq, and other markets.
+ Electronic communications networks (ECNs), including Instinet, Archipelago, and Brut, were introduced in 1997 to assist with order handling, acting as electronic brokers to match buying and selling orders. ECNs provide competition for market makers in bringing orders to the market.
+ SuperMontage. Nasdaq’s order-display and execution network, which is a computerized trading system.
+ Increasing off-hours trading, e.g., NYSE Euronext Crossing Sessions I and II
+Sarbanes-Oxley Act of 2002
+The Sarbanes-Oxley Act of 2002 (SOX Act) is the most wide-sweeping legislation to affect the securities industry since the Securities Act of 1933 and the Securities Exchange Act of 1934.  The SOX Act affects many participants in our financial markets: investors, security analysts, corporate management, and accountants. The provisions of this Act include:
+
+ Establishes the Public Company Accounting Oversight Board (PCAOB), with Securities and Exchange Commission (SEC) oversight.
+ Prohibits an accounting firm from performing non-audit services for an audit client.
+ Reduces potential conflicts of interest for CEO, Controller, CFO or Chief Accounting Officer.
+ Specifies rules for “independent” audit committees.
+ Requires certifications of audit reports by CEO and CFO.
+ Requires reimbursement of bonuses or other incentive-based compensation in the event of a restatement.
+ Prohibits insider trading during pension fund black-outs.
+ Prohibits personal loans to executives.
+ Requires disclosure of management assessment of internal controls.
+ Requires disclosure of whether at least one member of the audit committee is a financial expert.
+ Requires real time disclosures of changes in operations or financial condition.
+ Specifies that destroying documents to impede an investigation is a felony.  
+ Specifies that securities fraud is a crime punishable by fines and up to 10 years of prison.
+ Grants additional powers to the SEC (e.g., freeze payments to officer).
+
+The SOX Act came about following numerous financial scandals that involved publicly-traded corporation, accountants, investment bankers, and brokers.  As you can see in Exhibit I6, most of the provisions of the SOX Act are a response to specific misdeeds. 
+
+Exhibit I6	Some of the impetus for SOX
+Audit and Audit fees
+ In 2000, Adelphia paid Deloitte & Touche LLP audit fees of $1,319,000 and non-audit fees of $2,182,000.
+ Founding family members (Rigas) were found guilty of bank fraud and conspiracy; Adelphia filed for bankruptcy in 2002.
+
+Conflicts of interest
+ HIH Insurance ltd (Australia) included two retired members of the external auditor’s firm as board members. 
+ Results? “undesirable corporate governance practices” [The company collapsed]
+
+Independence of audit committee members
+ Adelphia 2000 audit committee: Pete J. Metros and Timothy Rigas
+
+Reimbursement of bonuses
+ Gateway fraud, 2000 [earnings manipulation by extending credit to those denied credit, manipulating revenue, etc.], with exiting executives receiving bonuses.
+ John J. Todd (CEO), 2000: salary of $412,500 + $224,500 bonus; $1,567,500 cash severance payment
+ Jeffrey Weitzen (CFO), 2000: salary of $1 million + $4.95 million in exercised options gain; $5.64 million cash severance payment.
+
+Prohibits insider trading during pension fund black-outs
+ Kenneth Lay, CEO of Enron, ''went so far as to tout the [Enron] stock as a good investment for his own employees -- even after he had been warned that a wave of accounting scandals was about to engulf the corporation.'' 
+ Enron stock fell from $85/share to under $1/share once the scandal was revealed. Insiders sold before the price fell, but employees (who had invested on average 60% of their pension in Enron) could not trade because of the pension black-out period. 
+
+How does SOX change things? There are many implications, including increased disclosures and increased disclosures. In addition, any misstatements by the company are now a greater cause for concern for corporate management and auditors.
+
+One of the primary purposes of the SOX Act was to restore confidence in the financial reporting and corporate governance. However, the efforts to restore confidence in corporate management and financial statement reporting were frustrated in 2004 by another scandal, this one involving back-dated options.   A back-dated option is an executive option grant in which the date of the grant has been manipulated to provide greater benefits to the executive and to minimize taxes.  Such manipulation, however, violates financial disclosure laws, as well as tax laws.7  
+Financial meltdown 
+During 2007 and 2008, the financial markets experienced significant upheaval, and the response to the turmoil in the markets by lawmakers and regulators are significant.  The problems in the financial industry leading up to the financial crisis are due to the confluence of many factors that built up over decades. These factors include:8
+
+ low interest rates combined with easy credit and low mortgage lending standards, 
+ bundling and securitization of subprime loans, where subprime loans are loans to borrowers with low credit quality,
+ the increase speed and complexity of transactions thanks to technology, including the securitization of low-quality mortgages, and 
+ a breakdown in corporate governance, financial disclosures, and risk management.9  A source of this risk that was poorly managed was the excessive maturity transformation (that is, borrowing short-term to invest long-term), market malfunctioning, insufficient equity capital, and regulation.10
+
+Securitization is the process of creating several different securities (referred to as tranches) from pooling of some assets (such as mortgages), and selling these securities to investors. Tranches differ in terms of seniority (and hence risk) and type of income. Investors receive the income from the underlying assets that corresponds to their tranche.  The dealers that created these mortgage-backed securities (MBS) and other asset-backed securities, included large financial institutions, Freddie Mac, and Fannie Mae.
+
+Other factors cited that may have contributed to the financial crisis include:
+ Lawmakers and others, an attempt to mitigate red-lining, required that banks lend to borrowers with lower quality credit worthiness.11 Some of this was carried out through the Community Reinvestment Act and its many amendments. Lenders, especially non-bank lenders, responding with loans that were, at times, predatory.  
+ Lenders creating more loans, many without sufficient documentation or verification of information.
+ Rating agencies (i.e., Moody’s Fitch and Standard & Poor’s) overstating the quality of the mortgage-backed securities.
+ Home prices declining as the market for homeowners and speculators is saturated. 
+ Fraud rampant in lending, home value appraisal, and transactions.
+
+Regardless of the causes and the degree of contribution by the many participants, the outcome is clear: the rapid deterioration of the subprime mortgage market led to a severe financial crisis in the U.S. beginning in the fall of 2008. The primary regulatory concern following the crisis is to dampen or prevent financial industry contagion that could result in a collapse of the financial system and spread to the general economy.  In other words, the regulators want to reduce or otherwise mitigate systemic risk.12
+
+The fall-out that was felt around the world had many consequences:
+
+ The write down of asset values for investors and dealers in mortgage-backed securities.
+ Sellers of credit default swaps required to pay on some swaps.
+ A slowdown in the economy in response to the reduced demand for home construction.
+ A lack of faith in the reputation and financial condition of financial firms.
+ Shorting of financial firms who were experiencing difficulties, reducing the values to artificially low levels.
+ Lack of liquidity in the markets arising from the lack of confidence in the financial condition of the financial firms and the response of regulators.
+ Bankruptcies of financial institutions, including Lehman Brothers and Bear Stearns.
+ “Shot-gun marriages”:  Bank of American acquired Merrill Lynch (January 2009); JP Morgan Chase acquired Bear Stearns (2008); Wells Fargo acquires Wachovia (January 2009); Bank of America acquired Countrywide Financial (July 2008)
+ Many banks failed in 2008: Washington Mutual (September 2008); IndyMac Bank (July 2008)
+ Government sponsored enterprises Federal National Mortgage Association (Fannie Mae) and Federal Home Loan Mortgage Corporation (Freddie Mac) placed under government conservatorship.
+ The passage of the Emergency Economic Stabilization Act of 2008, which was the Federal government bail-out of many financial firms: AIG, JP Morgan Chase; Citigroup; Wells Fargo, Bank of America
+
+The results of the financial crisis were the introduction of legislation and rules to manage systemic risk and to take corrective actions to protect consumers.  The Dodd-Frank Wall Street Report and Consumer Protection Act, often referred to as the Dodd-Frank Act, was signed into law in July of 2010.13  This Act established news laws and regulations, as well as new regulatory bodies, to help prevent future systemic risk in the financial system.
+
+Among other things, the Act provides:
+
+ The establishment of the Financial Stability Oversight Council (FSOC) that monitors the financial stability of major financial entities that may affect the stability of the economy.  
+ The establishment of the Consumer Financial Protection Bureau (CFPB) that seeks to protect consumers from predatory lending and to require appropriate disclosures related to consumer lending, especially mortgages.
+ The prohibition of proprietary trading within banks and limits banks’ speculative trading.14
+ Increased regulation of derivatives, including credit default swaps.
+ Increased scrutiny and regulation of credit rating agencies.
+ Strengthened whistleblower provisions for financial misdeeds.
+
+The import of this is that the Dodd-Frank Act reshaped the financial industry, including markets. In addition to the Dodd-Frank Act, the regulatory environment has changed for financial institutions.  For example, banking institutions must maintain minimum levels of capital, based on the riskiness of their assets.15  Banks that are adjudged to be systemically important must maintain a larger minimum capital level.
+
+A further change is the view of regulators, such as the SEC, who must look beyond the financial markets to consider impact on the financial system and the economy.  The SEC has also developed an audit trail of all equity and options trades in US markets, which offers more monitoring of the market system.
+Securities
+An investor may invest directly in securities or indirectly. Direct investing involves the purchase of a security. In this case, the investor controls the purchase and sale of each security in their portfolio. Indirect investing involves investing in vehicles that owned securities, such as mutual funds, closed- end funds, or exchange-traded funds. In this case, the investor does not control the composition of the fund’s investment; the investor only controls whether to buy or sell the shares of the fund.
+Direct investing
+We’ll introduce you to alternative investment vehicles in this module, but we will reinforce this descriptive material throughout the course as we examine current events in the markets. We can classify most direct securities into the following types:
+
+ Money market securities e.g., Treasury bills, commercial paper
+ Capital market securities e.g., Municipal bonds, corporate bonds, stocks
+ Derivatives e.g., Options, futures
+
+The yields on the different securities reflect the maturity, risk, and other features of the security:
+
+ Securities with more risk will have higher expected returns.  In periods of economic slowdowns, the spread between the yields of securities with different default risks widens.
+ In most economic environments, the yield curve is upward sloping; hence, longer-maturity securities have higher yields. In periods preceding a slowdown, the yield curve may be flat or slope downward.
+ Securities with more seniority over other securities of the same issuer have lower expected rates of return.
+
+You can see some of these characteristics on yields in Exhibit II1.  The Federal funds rate is the target set by the Federal Reserve for overnight lending among banks.  This rate serves as a minimum or base rate for most shore-term rates, as you see how well this rate and the three-month Treasury bill track with one another.  You will notice that the spread between the yields on these instruments widens during recessionary environments; for example, compare the Treasury 10-year rate with the AAA Corporate bond rate (that is, the rate on the highest quality corporate bonds).
+
+Exhibit II1	Yields on securities, 1960-2016
+
+Money market securities
+Money market securities are short-term, highly- liquid, low-risk debt of governments, banks, or corporations. These include:
+
+ U.S. Treasury bills (T-Bills)
+ Negotiable certificates of deposit (CDs)
+ Commercial paper
+ Eurodollar deposits
+ Repurchase agreements
+ Bankers’ acceptances
+
+A U. S. Treasury bill, or T-bill, is a short-term obligation of the U.S. government. Many securities and lending arrangements use the rate on U.S. Treasury bills as a reference rate -- that is, a benchmark for quoting and analyzing rates.1 For example, if the rate on the U.S. T-Bill is 3.5% and the rate on a specific certificate of deposit (CD) is 4.2%, we say that there is a spread of 70 basis points (bp).   The spread is simply the difference between the rate on the CD and the rate on the T-Bill, quoted in terms of basis points, where one basis point (bp) is 1% of 1% (or in other words, there are 100 bp in a 1% yield).
+
+There are two different methods that are commonly used in quoting T-Bill rates, the discount yield basis and the investment yield basis. T-Bills are sold at a discount and do not pay interest, so what you earn on the T-Bill is the difference between what you paid and what you get at maturity. The discount yield basis is the conventional method for quoting T-Bill rates, but this method tends to understate the true yield:
+
+Discount yield=  (Face value-Purchase price)/(Face value)×  360/(Maturity, in days)
+
+The investment yield basis is useful in comparing T-bill yields with those of other short-term securities:16
+
+Investment yield=  (Face value-Purchase price)/(Purchase price)×  365/(Maturity, in days)
+
+The two primary differences between these yields are that:
+
+ the denominator in the first term is different (face value for are discount basis, purchase price for the investment yield), and
+ the number of days used for annualization (360 for the discount yield, 365 for the investment yield).
+Like bonds, the yields on short-term securities are stated as a percentage of face value.  For example, a T-bill may be quoted as 99.275, which means that a $100,000 face T-bill is trading at $99,275.
+A certificate of deposit (CD) is issued by a financial institution, indicating that a specified amount of funds has been deposited with the financial institution. A negotiated certificate of deposit (NCD) is a large-denominated certificate of deposit at a bank, which has a specific maturity date. The NCD is a highly liquid security, but the depositor or investor cannot cash it in before its maturity. Though the minimum amount of the NCD is $100,000, NCDs are typically $1 million or more.
+Commercial paper notes have denominations (face values) starting at $25,000 each, although most have denominations of $100,000 or larger. Commercial paper is unsecured, so the lender (the party buying the commercial paper) is counting on the borrower being able to pay the face amount of the note
+at maturity. Nevertheless, almost all commercial paper is backed by a line of credit from a bank. If commercial paper is backed and the borrower is unable to pay the lender at maturity, the bank stands ready (for a fee) to lend the borrower funds to pay off the maturing paper.
+
+Most commercial paper issued in the U.S. has a maturity from 3 to 270 days. Though these maturities are relatively short, some firms tend to use commercial paper for financing over longer periods of time by rolling over the paper; that is, as the paper matures, they issue new commercial paper to pay off the maturing commercial paper.
+
+The interest on commercial paper is generally stated as discount interest, though in recent years some commercial paper with single payment interest -- interest bearing -- has been issued. The interest is quoted based on a 360-day year and is fixed for the maturity of the paper.
+
+Eurodollar deposits are deposits in U.S. dollars that deposited at bank branches outside of the United States. The popularity of Eurodollar deposits began in response of non-U.S. companies’ concerns over having their deposits in U.S. banks frozen. Eurodollar deposits were a way to have U.S. dollar- denominated deposits that were not within the regulation of the U.S. government or the Federal Reserve. Because these deposits do not reside in the U.S., the interest rates that paid on these deposits can surpass those of deposits in the U.S.
+
+A repurchase agreement (sometimes referred to as a "repo") has two parts: a sale of a marketable security and the subsequent repurchase of that same security from the purchaser. The agreement involves borrowing funds for a period shorter than the maturity of the marketable securities used in the agreement. Suppose you need funds for twenty days and you own U.S. Treasury Bills that mature in forty days. You can sell your T-Bills with a repurchase agreement, promising to buy them back within twenty days.
+
+This is a secured loan since the T-bills are marketable securities; the T-bills are the collateral.  If you fail to repurchase them the buyer takes ownership of them. The value of the collateral exceeds the cash paid in the initial sale -- the loan is over-collateralized -- this difference is referred to as the "haircut". The cost of a repurchase agreement is the difference between what you sell the securities for and what you pay to buy them back.
+A bankers' acceptance is a bank's commitment to pay someone else's promise to pay a specified amount at a specified date. With a bankers' acceptance, the bank is committing itself to make the specified payment at the maturity of the draft if the issuer of the draft does not pay. Bankers’ acceptances are typically used in international trade, though they may be used domestically as well. They generally have maturities less than 270 days.
+
+Although there are a variety of ways a banker's acceptance are arranged, the basic idea behind all of them is that a letter of credit is transformed into a security that can be bought and sold in the open market.
+Capital market securities
+Capital market securities include notes, long-term bonds, preferred stock, and common stock.  Notes and long-term bonds are considered debt because they are interest-bearing; preferred stock and common stock are equity instruments because they represent ownership of the entity.
+Debt securities
+Long-term debt securities consist of notes and bonds, which are legal obligations for the issuer to repay the borrowed funds.  Notes and bonds are long-term debt securities issued by governments,
+governmental agencies, municipalities, or corporations. Notes typically have maturities of more than one year to ten years, whereas bonds typically have maturities of seven to thirty years – or more.
+
+Debt securities are characterized by a face value (the amount due at maturity) and an interest rate (unless they are specifically a zero-coupon bond). Debt instruments may have additional features; they may be convertible (that is, exchangeable into another security) or callable (that is, they may be bought back by the issuer). They also may be secured or unsecured. A secured bond is backed by specific collateral, whereas an unsecured bond (also known as a debenture) is backed by the general credit of the issuer.
+
+U.S. Treasury bonds are debt of the federal government. These are interest-bearing securities that have maturities ranging from ten to thirty years. They are generally sold at face value and pay interest; some Treasury bonds are inflation-indexed, such as Treasury Inflation Protected Securities (TIPS).
+
+There are also government and government-sponsored agency securities. These agencies include:
+
+ Government National Mortgage Association (GNMA, Ginnie Mae)
+ Federal National Mortgage Association (FNMA, Fannie Mae) – home mortgages
+ Federal Home Loan Mortgage Corporation (FHLMC, Freddie Mac) – home mortgages
+ Federal Home Loan Bank (FHLB) -- home mortgages
+ Farm Credit System (FCS) – farm credit
+ SLMA (Sallie Mae) – student loans
+
+Municipal securities are bonds and notes sold by state, county, or city governments, or any other governmental body (e.g., airport authority). These securities are either general obligation bonds, which are backed by “full faith and credit” of the government, or revenue bonds, which are repaid with revenues generated by the financed project (e.g., municipal airport). Because municipal securities are often tax free with respect to federal taxation, investors must convert a municipal yield into an equivalent taxable yield to compare investments. The tax-equivalent yield (TEY) is calculated by taking the yield on the tax-free security and dividing it by 1 minus the marginal tax rate:
+
+Tax equivalent yield=  (Tax-exempt municipal yield)/(1-marginal tax rate)
+where the marginal tax rate is the investor’s tax rate on his/her next dollar of income.
+
+Corporate notes and bonds are obligations of corporations, which most often have fixed maturity and have seniority with respect to claims on income and assets over any ownership interests, such as common stock.
+
+Another debt investment is the corporate note or bond. Corporate notes and bonds typically pay interest and may have conversion or call features.  A convertible bond is a bond that allows the investor to exchange it for another security, such as shares of stock of the company, at a predetermined rate. In other words, a convertible bond is a bond with an embedded option: the investor has a put option, allowing the exchange of the bond for another security (typically stock).17
+
+A callable bond is a bond in which the issuer has the option to buy the bond back from the investor at a predetermined price (the call price). The callable bond therefore has an embedded option: the issuer has the option to “call” (that is, buy) the bond back from the investor.
+
+A bond rating reflects the credit quality of corporate bonds. These ratings reflect the characteristics of the issuer, as well as the characteristics of the issue (e.g., whether a bond is secured). There are several nationally recognized statistical rating organizations (NRSROs), including:
+
+ A.M. Best Company,
+ DBRS,
+ Fitch Ratings,
+ Moody’s,
+ Morningstar Credit Ratings, and
+ Standard & Poor’s.
+
+The NRSROs are required to register with the SEC, and the SEC oversees the credit rating industry through its Office of Credit Ratings and Examination.
+
+We list the Standard & Poor’s bond ratings in Exhibit II2. Bonds in the top two classes are referred to as high-quality bonds.  Bonds in the top four classes are referred to as investment grade debt.  Bonds rated lower than in the top four classes are speculative debt, which is also referred to as high-yield debt, or junk bonds.
+
+Exhibit II2 	Standard & Poor's Long-term Issue Credit Ratings
+
+Investment grade
+AAA	Highest quality. Ability to pay interest and principal very strong. 
+AA	High quality. Ability to pay interest and principal very strong.
+ Medium to high quality.  Ability to pay interest and principal, but more susceptible to changes in circumstances and the economy.
+BBB	Medium quality. Adequate ability to pay, but highly susceptible to adverse circumstances.
+
+Speculative grade
+BB	Speculative. Less near-term likelihood of default relative to other speculative issues.
+ Current capacity to pay interest and principal, but highly susceptible to changes in circumstances. 
+CCC	Likely to default, where payment of interest and principal is dependent on favorable circumstances. 
+CC	Debt subordinate to senior debt rated
+CCCC	Debt subordinate to senior debt rated
+CCCD	Currently in default, where interest or principal has not been made as promised.
+
+In the aftermath of the Enron scandal in 2001, bond rating agencies were criticized for the slowness in revising bond ratings for deteriorating corporate situations (e.g., Enron and Kmart). Changes in the industry because of legislation has improved the speed and transparency in ratings.
+
+Rating services also have implied ratings, also known as market implied ratings. The rating service uses the yield spread of a company’s bonds relative to that of the similar-maturity government bond to back into the perceived risk of the company by investors, and then associates this perceived risk with a rating. In other words, the market’s opinion is translated into a rating. The rating services disclose both the assigned bond rating and the implied bond rating for securities that it rates.
+
+What’s a yield spread?
+
+A yield spread is the difference between the yield on a debt instrument and the yield on a similar-maturity default- free bond (that is, a government bond). For example, if 10-year corporate bond has a yield of 5.41% and the yield on a 10-year U.S. government bond is 4.74%, the yield spread is the difference: 5.41% - 4.74% or 0.67%. However, yield spreads are always quoted using basis points (bp, pronounced “bip”). A basis point is 1/100 of 1%. In other words, 1% is 100 bp. This means that the yield spread in this example is 67 bp.
+
+Because the difference between a 10-year corporate bond and a 10-year U.S. government bond is the possibility of default, the yield spread is a proxy for risk: the greater the yield spread, the greater the risk.
+Equity securities
+An equity security is an ownership interest in a corporation, represented by a share of stock. There are two types of stock that corporations issue: preferred stock and common stock. Preferred stock has preference over common stock with respect to income and claims on assets. Common stock is the residual ownership of the company.
+
+When a company first goes public (that is, it is selling shares to the public, becoming a publicly-traded corporation), this transaction is referred to as an initial public offering (IPO). There is usually a lot of fanfare when a large, privately-held corporation has an initial public offering. Consider Google (GOOG), which went public August 13, 2004 by offering 19.6 million of its Class A shares at $85 per share. In the first day of trading, the stock rose to $100 per share. The parent company was renamed Alphabet in later 2015. Since the offering, Google stock has risen to many times its offering price, as we show in Exhibit II3.18
+
+Exhibit II3	Google's stock price since its IPO
+
+
+
+Cash flows to shareholders are cash dividends, whereas additional shares given to shareholders are stock dividends. If the board of directors of a company feels the price of the stock is too high, it may split the stock in a forward stock split, or more commonly referred to as simply a stock split. A forward stock split is a proportionate increase in the number of shares outstanding, e.g., 2:1 or 3:1. If a company feels its stock is too low, it may perform a reverse stock split. A reverse stock split is a proportionate decrease in the number of shares outstanding (e.g., 1:2 or 1:3).
+
+Cash dividends are not an obligation of a corporation, but rather are determined at the discretion of the board of directors. The board will declare on the declaration date that a specified dividend be paid on the payment date to shareholders as of the record date. The exchanges then specify the ex-dividend date based on the record date as one business day prior to the record date.19  
+
+If an investor buys the stock on the ex-dividend date, they do not receive the forthcoming dividend; if he/she buys the stock the day before the ex-dividend date, he/she will receive the forthcoming dividend.
+
+Dividend timeline
+
+One business day||||Declaration dateEx-dividend dateRecord datePayment date????Determined by the BoardDetermined by marketsDetermined by the BoardDetermined by the BoardDerivatives
+Derivatives are not themselves equity interests or debt securities, but rather represent a right or obligation related to another asset, such as equity or debt securities.  Options, warrants, forwards, futures, and asset-backed securities are types of derivative securities. These securities are derivatives because they “derive” their value from another asset – the underlying asset (or simply “the underlying”). For example, an option on a stock is a right to buy a stock, so its value depends on the price of the underlying – the stock.
+
+An option is a contract that gives its owner the right, but not the obligation, to conduct a transaction involving an underlying asset at a predetermined future date and at a predetermined price (exercise or strike price):
+
+ A call option is the right to buy the underlying
+ A put option is the right to sell the underlying 
+ “Writing” an option (i.e., writing a call or writing a put) is taking the opposite position.
+A warrant on stock is a type of derivative, specifically an equity derivative that issued by a company. A warrant is a security that gives the owner the right to buy specified stock at a specified price. A warrant may perpetual – in which case there is no limit in time at which this option can be exercised – or it may have a fixed date. Warrants are often attached to a security, used as a sweetener to entice investors to buy that specific stock or bond, and can sometimes be detached from the security to trade on an exchange or over-the-counter. Many companies going public issue warrants to encourage investors to buy their new offerings or stock and/or debt.
+A forward contract is a contract that gives the contract holder the right and the legal obligation to conduct a transaction for a specified quantity of an asset at a specific time in the future. A futures contract is a standardized forward contract. Though futures contracts originated in agricultural commodities and metals, there is now an active market in futures related to financial instruments, such as the S&P500 futures contracts.
+Another type of derivative is one in which securities are created by pooling of assets.  In securitization, a dealer buys assets (e.g., mortgages, credit card receivables, or equipment leases), pools these assets, and then creates tranches. A tranche is a set of rights to the pool, which are then sold in the form of securities. The tranches have different rights and seniority, and hence different risks and values. We refer to the securities that represent these tranches as asset-backed securities (ABS). If the pool of assets supporting the securities consists of mortgages, we refer to these as mortgage-backed securities (MBS).   If the pool of assets consists of residential mortgages, we refer to these as
+residential mortgage backed securities (RMBS).
+
+In some cases, the dealer bought insurance to support the more senior tranches (the “super-senior” tranches), increasing their quality ratings and hence reducing the required rate of return that investors demanded. This insurance is a credit enhancement, which financial guarantee insurers provide.  We diagram a typical asset backed securitization in Exhibit II4.
+
+Exhibit II4 	Securitization example: MBS
+
+Originators lend funds, creating mortgages secured by real estateDealers collect mortgages and pool them, creating securities representing tranchesInvestors buy the securities and receive cash flow based on seniority and the cash flow into the poolIndirect investing
+Indirect investing is investing funds with an entity that pools funds from investors and invests and manages these funds. Indirect investing may be accomplished with different types of entities, but the three most prevalent are investment companies, private equity, and hedge funds.
+Investment companies
+Investment companies are organizations that hold portfolios of securities, such as Fidelity, Janus, or T. Rowe Price. These investment companies provide an opportunity for investors to own a part of a fund’s portfolio. There are several different types of funds:
+
+ Unit investment trust (UIT), which is an unmanaged, fixed income portfolio.
+ Closed-end investment company, which is an offering like stock; the fund’s shares trades like stock in secondary market.
+ Open-end investment company (a.k.a. mutual fund), which is open-ended (that is, the fund accepts additional investors’ funds). This type of fund is managed and marketed aggressively.
+ Exchange traded fund (ETF), which is a passively managed fund designed to mimic an index.
+
+As you can see in Exhibit II5, these different types of investment companies differ with respect to the share of the market for investment company assets.  The portfolio managers of investment companies often are compensated with a management fee, which may be based as a percentage of assets under management (AUM), as well as a performance fee (e.g., generating a return above a specified threshold or high-water mark).  
+
+Exhibit II5 	Investment company net assets, by type, 1998-2016
+
+
+
+A unit investment trust (UIT) is created from a one-time offering of a fixed number of units. The offering is in the form of an initial public offering. The UIT is a portfolio that is fixed and passively- managed – that is, a buy and hold strategy. UITs have a fixed termination date, which may be one year, thirty years, or more.
+
+The UIT portfolios may consist of equity investments, fixed income investments, or some combination. There are thousands of UITs, with many specializing in sector investments.  UITs distribute any dividend or interest income to investors, but there are no capital gain consequences until the investor buys or sells their shares.
+
+A unit is typically $1,000 initially and is sold by brokers. Units of a UIT are valued at the net asset value and redeemable at the NAV, though the sponsor may create a limited secondary market for the units. The net asset value (NAV) is the value of the assets the fund, less any liabilities, divided by the number of units.
+
+Unit investment trustsAdvantages
+ Diversified portfolio
+ Buy-and-hold strategy (minimize fees)
+ Can sell units at any time at NAV.
+ Low administrative costsDisadvantages
+ Portfolio does not change with the market conditions
+Closed end funds are created with a fixed number of shares are sold at one time, using an initial public offering. The shares of the fund then trade in secondary market (e.g., Nasdaq, NYSE). The price of the fund share is determined by the market, and this price may be greater or less than the shares’ NAV. Shares of closed end funds are not redeemable; that is, an investor cannot “cash out” of the fund shares, but rather must sell the shares to another investor in the secondary market.
+
+Registered investment advisers manage these funds. Because investors are not able to redeem shares, the fund is able to invest in illiquid securities. Closed-end funds have increased in popularity in the past few years.
+
+Closed-end fundsAdvantages
+ Investors can sometimes buy shares at a discount from the NAV and sell shares at a premium.
+ Do not have to sell shares to meet redemption demands.
+ Distributions according to prescribed schedule.
+ Lower fees than most mutual funds.Disadvantages
+ Investors pay taxes on income and capital gains annually.
+ Fixed number of shares, hence less liquidity
+Mutual funds (a.k.a. open-end funds) purchase investments using the pooled funds of the investors. The fund may invest in stocks, bonds, and many other investments. There are over 8,000 mutual funds at the end of 2006.2 There are large fund “families,” such as Fidelity, Vanguard, Janus, and T. Rowe Price, that will maintain many different types of funds, with different purposes and different portfolio managers. In 2006, the top five mutual fund families managed approximately 38 percent of the mutual fund assets.3 The investment adviser of the fund (the fund manager) directs the investments according to the fund’s objectives.
+
+Investors purchase mutual fund shares at prices at the close of the day, but not during the day. Any dividends and interest are passed through to investors in the form of an income distribution. If there are any capital gains (net of losses), these are also being passed through to investors in the form of a capital gains distribution.
+
+There are many different types of mutual funds, which may be classified as follows:
+
+ Money market funds
+ Bond funds (domestic taxable; domestic non-taxable)
+ Global
+ Equity funds (domestic; global)
+ Hybrid funds
+
+Investors’ interest in mutual funds has grown over the past twenty years, and the number of mutual funds has grown to satisfy this interest.
+
+Mutual fundsAdvantages
+ Diversification
+ Professional management
+ Liquidity
+ ConvenienceDisadvantages
+ No guarantees
+ Fees
+ Tax effects
+An exchange-traded fund (ETF) is an indexed fund; its composition matches the specified index. The first exchange traded fund (ETF) was in 1993, which is a Standard & Poor’s Depositary Receipts (SPDRs) ETF, created by the AMEX. Examples of ETFs include QQQs, IShares, SPDRs and Diamonds. 
+
+The management fee of an ETF is low, approximately 12bp, and an ETF’s price is generally close to its NAV.4 Exchange traded funds, while a currently a small portion of the indirect investment market, have been growing in popularity.
+
+Exchange traded fundsAdvantages
+ Tax advantages vis-à-vis mutual funds (i.e., tax efficient
+ Low turnover within the fund (and, hence, lower fees)
+ Investors can buy or sell ETFs any time during market hoursDisadvantages
+ Transactions fees for buying and selling
+
+One of the current issues regarding funds is the fee structure and disclosure of these funds. Many funds are not forthcoming in disclosing their fees to investors, which has caused concerns.
+
+Funds may be load or no-load funds. The distinction between load and no-load is with respect to whether the fund has a sales load, which is a charge either up front or when the investor redeems the shares (that is, a deferred sales charge). Loads (that is, sales charges) range from 1% to 9% of the investment’s value.
+
+Whether a fund is a no-load or load fund, there are still many other types of fees that the investor may incur, including:
+
+ Redemption fee, paid to fund to defray costs associated with sale of shares (SEC limits to 2%);
+ Purchase fee, paid to the fund (not broker) to defray fund’s cost associated with purchase;
+ Exchange fee, paid when an investor transfers his/her funds to another fund in the same group.
+ Account fee, which is a separate fee associated with the maintenance of the fund;
+ Management fees, which are paid out of fund assets to adviser for services; and
+ 12b-1 fee, which is a distribution fees for marketing and selling shares [NASD limits to 0.75% per year].
+
+There is no evidence that load funds do better than no-load funds.  Performance of a fund is dependent on the management of the portfolio and the fees other than the loads that the fund may charge.
+
+Funds that invest in stocks tend to outperform the market by 1.3% per year, before considering expenses and returns on non-stock investments. The net returns on funds under-perform the market by 1%. Of this difference, 0.7% is due to underperformance of non-stock holdings and 1.6% is due to expenses and transactions costs.
+Private equity
+A private equity (PE) firm is an entity that invests funds of investors in non-publicly-traded companies or buyout publicly traded companies taking them private.  The decision-makers in a private equity fund solicit funds from institutions and individual investors, and invests and manages these funds, often taking active roles in the companies in which they invest.
+
+Because of their unregulated nature, the funds are generally limited to what are referred to as accredited investors. These accredited investors include corporations and partnerships with assets over $5 million, an individual with a net worth over $1 million, banks, insurance companies, and employee benefit plans.20 
+
+The investments in private equity are considered long-term because time is needed to execute a turnaround of an acquired company.  The goal is most often to turnaround a company and then exit this investment by selling this company or taking the company public through an initial public offering.
+
+The portfolio managers for private equity generally earn a management fee, as well as a performance fee.
+Hedge funds
+There are many investment vehicles that allow investors to invest in a pool of assets through the purchase of stock or unit of ownership. For example, an investor can buy a share in a closed-end fund, an interest in a unit investment trust, or shares in a mutual fund. An alternative investment pool is the hedge fund.
+
+A hedge fund is an investment pool in which investors’ funds are invested in different investments. Like private equity, these investors may be institutions or accredited investors. Many hedge funds further limit individual investors by requiring significant investment minimums, such as $1 million.  The objective of a hedge fund, as with any investment fund, is to generate positive returns on the investment. Unlike a mutual fund, hedge funds are largely unregulated and are not required to register with the Securities and Exchange Commission.21 Therefore, there is no uniform method of reporting to investors and there is no regulatory oversight. In other words, there are few protections for investors from federal and state laws in the case of hedge funds.
+
+The fee arrangements of hedge funds are a bit different from those of mutual funds. The fund managers typically receive between 1 and 2 percent of the fund’s value in fees and a 15-20 percent performance fee based on returns.
+
+One of the concerns about hedge funds is that there is no oversight of these funds and the persons managing them. In the case of a mutual fund, the fund managers must be registered, and the books are subject to inspection. This is not the case in hedge funds – there is no requirement that the hedge fund managers be registered.
+
+Another concern is that hedge funds are often invested in illiquid investments in which values are estimated by the hedge fund managers themselves. Any reporting of financial information is voluntary on the part of hedge funds and there is no uniform method of disclosure, which may result in overstated returns (especially in the presence of the significant performance fees). It is often difficult to determine the true value of the hedge fund assets until it is too late.
+
+So, if the hedge funds take on so much risk, does this mean that they generate huge returns? Yes and no. Hedge funds are characterized by two factors: (1) frenetic trading that generates significant commissions that reduce potential returns to investors, and (2) speculative investments. This means that such a fund is capable of high returns, but even more capable of generating huge losses. It is difficult to state whether hedge funds outperform, say, the market on a risk-adjusted basis because it is impossible to get reliable data on hedge fund returns.7 However, what limited data exists suggests that hedge funds
+
+In “Hedge Funds: Risk and Return,” Burton G. Malkiel and Atanu Saha explore the hedge fund returns that are reported in hedge fund databases.22  They found that biases in how these indexes of hedge fund returns are calculated result in overstatement of the returns to hedge funds.  They also find that while hedge funds offer some benefit from diversification because their returns have low correlation to traditional equity and bond investments, there is a “substantial risk of selecting a dismally performing fund, or worse, a failing one.” (p. 88). In other words, hedge funds outperform the market sometimes and underperform the market at other times. This is what you would expect if these funds take on more risk than that of the market.
+
+Though there are concerns about the non-regulated nature of hedge funds, many argue that there should be no such regulation because these funds help complete the markets, providing capital for higher risk ventures that would otherwise not be able to raise capital. In other words, these funds provide liquidity to the market. It is also argued that the fast-paced transactions that seek out pricing discrepancies may help the market, but this is countered by the fact that there may be too many funds chasing these few arbitrage opportunities, possibly resulting in mis-valuations instead of proper market valuations. Those that argue for no regulation rely on the banks and other institutions that lend to the hedge funds to monitor these activities.
+
+And, yes, there have been problems with some hedge funds and some huge failures, including the $300 million Eifuku Master Fund failure in 2003, the Manhattan Fund collapse in 2000 resulting in a loss of $400 million, the infamous Long-term Capital Management fund near-failure in 1998, and the Granit Fund’s $600 million failure in 1994.23  Also hedge funds have been associated with a large amount of short selling, amounting to naked short selling, which may be, effectively, manipulating some stocks’ prices.
+
+There is no argument that hedge funds have significant risk because of the type of investment, the use of leveraging, and the use of instruments such as derivatives. These funds are not for the faint of heart or anyone who cannot lose their entire investment.
+
+Investors who do not meet the minimums to qualify as an accredited investor may invest in a fund of hedge funds (also referred to as a fund of funds), which are investment pools that invest in hedge funds. The entry minimum into these funds is much smaller than the direct investment and may be as small as $25,000. Some funds of hedge funds must register with the SEC, others do not.
+
+Though in some cases a fund of a hedge fund offers some regulatory oversight, there is ultimately the risk associated with the hedge fund that the fund of hedge funds invests in. There is also the issue of fees: the hedge funds themselves impose fees, reducing returns to investors, and the fund of the hedge fund imposes fees (1-2 percent management fee, plus 10-20 percent performance fee), reducing the returns much further.
+
+If you want even more complexity (and another layer of fees), consider that there are even funds of funds of hedge funds.
+
+Mutual fund v. Hedge fundMutual fundHedge fundMust register with the SEC?YesNoNASD oversees advertisements?YesNoSubject to Internal Revenue Service requirements for distribution of earnings?YesNoSubject to the Investment Advisers ActYesNoFees subject to limits?YesNoMust cover positions?YesNoShares/interests redeemed at any time?YesNoQuotations available daily?YesNoCareers in capital markets
+There are many career opportunities in capital markets, ranging from financial analysis to securities sales. The firms and organizations that participate in capital markets and employ finance professionals include:
+
+ Banks and financial institutions
+ Pension funds and mutual funds
+ Municipalities and governments
+ Companies and organizations.
+
+Most of the careers in capital markets require continuing education, examinations, and professional designations. Common attributes necessary for success in careers in capital markets is a strong math aptitude, an ability to work in a fast-paced environment, an ability to work independently to analyze and solve problems, and the ability to communicate well.
+Certifications, examinations, and other designations
+Professional designations and examinations are strongly recommended in some capital market career paths, and required in others.
+FINRA qualification exams
+The Financial Industry Regulatory Authority (FINRA) is a self-regulatory organization of brokers, dealers, and exchanges.  As part of its role as a regulatory body, FINRA administers many examinations that are required for finance professionals., A sampling of these examinations are shown in Exhibit III1.
+
+Exhibit III1	A sampling of FINRA qualification examinations
+
+ExamLicenseLicense forSecurity Industry Essentials (SIE)Pre-requisites for all license examsSeries 6Limited Investment SecuritiesSelling of packaged investment products (e.g., mutual funds)Series 7General Securities Representative Selling of any equity, fixed income, and optionsSeries 3National Commodities FuturesSelling of commodity futures contractsSeries 63Uniform Securities AgentTransacting business within the stateSeries 65Uniform Investment Adviser LawProviding financial advice or service on a non-commission basisSeries 79Investment Banking RepresentativeDemonstrating competency to perform job as an investment bankerSeries 86 and 87Research Analyst QualificationPerforming job as a research analyst representativeThe Chartered Financial Analyst designation
+The Chartered Financial Analyst (CFA) designation requires the successful completion of three levels of examination (referred to as Level I, Level II and Level III), four years of work experience in the field of investment management and research, and compliance with the Standards of Practice and Code of Ethics & Standards of Professional Conduct. The CFA examination is managed by the CFA Institute.
+
+The examinations cover topics in:
+
+ Ethics
+ Quantitative analysis
+ Economics
+ Financial accounting
+ Equity securities
+ Fixed income
+ Derivatives
+ Alternative Investments
+
+Charterholders often have careers in portfolio management, financial analysis, and wealth management. 
+The Certified Financial Planner designation
+Many financial planners will seek the Certified Financial Planner (CFP) certification.  The CFP is managed by the CFP Board, and requires specific coursework and examinations that cover topics in:
+
+ Principles of financial planning
+ Insurance planning
+ Investment planning
+ Income tax planning
+ Retirement planning
+ Estate planning
+ Interpersonal communication
+ Professional conduct and fiduciary responsibility
+
+In addition to coursework and examination, the CFP requires 6,000 hours of work experience in the field.
+Career paths in capital markets
+Financial analyst
+A financial analyst evaluates investments, and may be employed by corporations, banks, pension funds, mutual funds, securities firms, insurance companies, or investment banks.  Financial analysts may analyze stocks, bonds, or other financial instruments.  The task of the financial analyst is to support decision making on the part of corporations or investors.  An analyst must evaluate economic conditions, the fundamentals of companies, industries, and sectors, and government regulations, among other things.
+
+Credentialing is important for a financial analyst, which may include the Chartered Financial Analyst (CFA) designation, the FINRA Series 7 and 63 exams, and/or the Securities Industry Essentials (SIE) exam.
+
+A financial analyst working in the securities industry may work for a firm that is on the buy-side or the sell-side.  The buy-side of the business assists with decisions of how a firm spends money, and careers in this side of the business may be with, for example, pension funds, mutual funds, or third-party firms that supply analyses.
+
+A financial analyst in the sell-side produces research reports that compare investments with others in the industry or sectors, with recommendations (e.g., buy, hold, sell).  Within an investment bank, sell-side analysts assist in pricing and selling the bank’s investment products.
+Investment banking analyst
+An investment banking analyst will often analyze mergers and acquisitions (M&A), initial public offerings (IPOs), and leveraged buyouts (LBOs), as well as other deals. Analysts in this role are responsible for evaluating the economy, the markets, and companies involved. As part of their analysis, investment banking analysts generate forecasts necessary for valuing deals.
+Security dealers
+A security dealer is involved in the purchase and sale of securities for their own account, often using a broker to execute trades.  The everyday task of the dealer is to buy and sell securities, making a market in securities.  A securities dealer must register with the SEC.
+Trader
+A career as a trader is extremely competitive and involves the buying and selling of financial instruments for their firm.  The firms employing traders include investment banks, hedge funds, commercial banks, and asset management firms.  There are three primary goals of trading: Find the best price of an investment for their client, make a profit from the bid-ask spread, and provide liquidity for their clients. Traders must pass the Securities Trader Qualifications Examination (FINRA Series 57 examination). Traders often take the FINRA Series 7 and 63 examinations.
+
+Trading positions may be on the buy-side or the sell-side.  The attributes that contribute to success in trading is a strong math aptitude, the ability to make quick decisions under stress, and the self-assurance to weather volatility.
+Financial advisor
+A financial advisor offers many services for clients that include the management of their investments, estate and tax planning, and retirement planning.  Financial advisors must be certified according to a FINRA Series 65 license, but other certifications, such as the CFA or CFP, are becoming increasingly important for credibility with and competition for clients.
+
+Financial advisors may be fee-based or commission-based, though latter are generally referred to as a broker.  If an advisor receives a commission for clients trading based on their advice, there is an inherent conflict of interest.24  The issue that is roiling through financial advising careers is the fiduciary rule, which requires advisors to act as a fiduciary in retirement planning; the import of this is that the fiduciary rule requires the advisor to act in the best interest of the client when making recommendations.  The SEC has not gone far enough to require a fiduciary duty for brokers, but has issued a ruling, Regulation Best Interest, that requires the standard of conduct beyond suitability to “best interest”.25 Though not going as far as a fiduciary responsibility, this is a step towards this.
+
+Providing personal investment management, financial advisory services, and retirement and estate planning, among other planning services, to high net worth individuals is often referred to as wealth management.26
+Broker
+A broker is an agent that carries out an activity on the behalf of his or her client.  A broker is in direct contact with their clients and are generally responsible for generating their own roster of clients (their “book” or “book of business”).  Brokers may offer financial planning, but the primary function is generating executions because their compensation is most often in the form of a commission on trades.
+
+Attributes of a successful broker include the ability to sell, the ability to communicate well, and the ability to convey complex concepts and features to clients.  Brokers must become registered representatives, passing FINRA Series 7 and Series 63 exams, sponsored by a brokerage firm.  Additional licenses may be obtained through FINRA to enable the sale of a more diverse selection of investments.
+
+Index 
+
+12b-1 fee, 34
+Account fee, 33
+Accredited investors, 34
+Ask, 14
+Asset-backed securities, 29
+Assets under management, 31
+AUM, 31
+Back-dated option, 19
+Basis points, 23
+Best-efforts offering, 6
+Bid, 14
+Bid-ask spread, 14
+Bonds, 24
+Book, 40
+Book of business, 40
+Book runner, 6
+Broker, 39, 40
+Buy-side, 38
+Call market, 7
+Call money rate, 11
+Call option, 25
+Call price, 25
+Callable, 25
+Callable bond, 25
+Capital market, 1
+Cash dividends, 28
+CD, 23
+Certificate of deposit, 23
+Certified Financial Planner, 38
+CFA, 37
+CFP, 38
+CFPB, 21
+Chartered Financial Analyst, 37
+Closed end funds, 32
+Closed-end investment company, 31
+Commercial paper, 23
+Commission brokers, 10
+Common stock, 27
+Competitive bid, 6
+Consumer Financial Protection Bureau, 21
+Convertible, 25
+Convertible bond, 25
+Credit enhancement, 30
+Dealer market, 7
+Dealers, 9
+Debenture, 25
+Declaration date, 28
+Deferred sales charge, 33
+Derivative, 1
+Direct investing, 21
+Direct listing, 6
+Discount yield basis, 23
+Electronic communications networks, 17
+Equity security, 27
+ETF, 31
+Exchange fee, 33
+Exchange traded fund, 31
+Ex-dividend date, 28
+Expected return, 2
+Face value, 24
+Fail, 16
+Failure to deliver, 16
+Fannie Mae, 20
+Federal funds rate, 22
+Fiduciary rule, 39
+Financial advisor, 39
+Financial analyst, 38
+Financial Industry Regulatory Authority, 37
+Financial instruments, 1
+Financial intermediaries, 4
+Financial market, 1
+Financial Stability Oversight Council, 20
+FINRA, 37
+Floor broker, 10
+Floor brokers, 10
+Forward contract, 29
+Forward stock split, 28
+Freddie Mac, 20
+FSOC, 20
+Fund of funds, 36
+Fund of hedge funds, 36
+Funds of funds of hedge funds, 36
+Futures contract, 29
+General obligation bonds, 25
+Geometric average, 3
+Geometric mean, 3
+Geometric mean return, 3
+Hedge fund, 34
+High-quality bonds, 26
+High-yield debt, 26
+House brokers, 10
+Implied ratings, 26
+independent brokers, 10
+Indirect investing, 21
+Initial public offering, 27, 34
+Investment, 1
+Investment bankers, 6
+Investment banking analyst, 39
+Investment companies, 30
+Investment grade debt, 26
+Investment yield basis, 23
+IPO, 27
+Junk bonds, 26
+Leveraged buyouts, 39
+Limit order, 11
+Load, 33
+M&A, 39
+Maintenance margin, 12
+Marginal tax rate, 25
+Market, 4
+Market implied ratings, 26
+Market makers, 9, 10
+Market order, 11
+MBS, 29
+Mergers and acquisitions, 39
+Money market, 1
+Money market securities, 22
+Mortgage-backed securities, 29
+Municipal securities, 25
+Mutual fund, 31
+Naked short sale, 16
+Nationally recognized statistical rating organization, 26
+NCD, 23
+Negotiated bid, 6
+Negotiated certificate of deposit, 23
+No-load funds, 33
+Notes, 24
+NRSRO, 26
+Open-end investment company, 31
+Opportunity cost of funds, 1
+Option, 29
+Over-the-counter market, 8
+Payment date, 28
+PE, 34
+Penny stock, 9
+Performance fee, 31
+Pink sheets, 9
+Preferred stock, 27
+Primary capital market, 5
+Private equity, 34
+Private placement, 6
+Pump-and-dump, 9
+Purchase fee, 33
+Pure auction market, 7
+Put option, 25
+Record date, 28
+Redemption fee, 33
+Red-lining, 19
+Reference rate, 22
+Registered traders, 10
+Required rate of return, 1
+Residential mortgage backed securities, 30
+Revenue bonds, 25
+Reverse stock split, 28
+RMBS, 30
+Rule 415, 6
+Sales load, 33
+Sarbanes-Oxley Act of 2002, 17
+Secondary capital market, 5
+Secured bond, 25
+Securitization, 19
+Security dealer, 39
+Sell-side, 38
+Shelf registration, 6
+Short, 15
+Short interest, 15
+Short sale, 15
+Specialist, 9
+Specialists, 10
+Speculative debt, 26
+Spread, 14
+Stock dividends, 28
+Stock split, 28
+Stop buy order, 11
+Stop loss order, 11
+Subprime loans, 19
+Super Display Book, 17
+Super-Dot, 17
+SuperMontage, 17
+Systemic risk, 20
+Tax-equivalent yield, 25
+T-bill, 22
+thin market, 9
+Time-weighted return, 3
+TIPS, 25
+Trader, 39
+Tranche, 19, 29
+Treasury Inflation Protected Securities, 25
+U. S. Treasury bill, 22
+U.S. Treasury bonds, 25
+UIT, 31
+Underwriting, 6
+Underwriting syndicate, 6
+Unit investment trust, 30
+Unsecured bond, 25
+Uptick rule, 15
+Warrant, 29
+Wealth management, 40
+Yield spread, 27
+Zero-coupon bond, 24
+
+
+
+Exhibits
+Exhibit I1 	Historical investment returns, 1999-2016	2
+Exhibit I2 	Firms, financial markets, investors, and financial intermediaries	5
+Exhibit I3 	Primary offerings of securities	7
+Exhibit I4 	Order Execution	11
+Exhibit I5 	Short interest in NYSE listed stocks, 2005 through August 2008	16
+Exhibit I6	Some of the impetus for SOX	18
+Exhibit II1	Yields on securities, 1960-2016	22
+Exhibit II2 	Standard & Poor's Long-term Issue Credit Ratings	26
+Exhibit II3	Google's stock price since its IPO	28
+Exhibit II4 	Securitization example: MBS	30
+Exhibit II5 	Investment company net assets, by type, 1998-2016	31
+Exhibit III1	A sampling of FINRA qualification examinations	37
+
+
+1 U.S. Treasury securities, while having no default risk, are not truly risk free.  These securities, for example, still have interest rate risk – that is, risk that the value of the security will change because interest rates in the market change. Further, they are considered default risk-free if the rating 
+2 Restricted securities are those that are unregistered securities of an issuer, such as through private placements, employee stock benefit plans, or another non-registered issuance.  Control securities are those owned by an affiliate (e.g., director or large shareholder) that has a control relationship with the issuer.  
+3 Securities and Exchange Act of 1934 Section 15(h).  The penny stock trading rules also include Securities and Exchange Act Rules 3a51-1 and 15g-1 through 15g-100.
+4 This is specified in §220.12 of Title 12, Part 220 of the Code of Federal Regulation.
+5 On June 23, 2004, the SEC adopted Regulation SHO (Securities Exchange Act Release No. 50103, 69 FR 48008) which governs short sale transactions.
+6 Recent exchange mergers include the acquisition of the BATS Global Markets by the Chicago Board Options Exchange and the acquisition of the National Stock Exchange by the New York Stock Exchange, both in 2017.
+7 For more information, check out the web site created by the professors who broke the story on back-dated options:www.biz.uiowa.edu/faculty/elie/backdating.htm. 
+8 The Financial Crisis Inquiry Commission provides an in-depth look at the causes of the financial crisis.  As they cite, the crisis was precipitated by many issues, including Financial Crisis Inquiry Report, Financial Crisis Inquiry Commission (2011).
+9  Financial Crisis Inquiry Report, Financial Crisis Inquiry Commission (2011).
+10 Martin Hellwig, “Systemic Risk in the Financial Sector: An Analysis of the Subprime-Mortgage Financial Crisis,” De Economist, Vol. 157, No. 2 (June 2009), pp. 129-207.
+11 Red-lining is the refusal to lend to some borrowers simply because of location.
+12 Systemic risk is the risk related to a firm’s or firms’ financial distress affects the economy.
+13 Public Law No. 111-203.
+14 This is known as the Volker Rule.
+15 These minimum capital levels, among other regulator tools, arise from the Basel Committee on Banking Supervision. The 2013 update of these tools, referred to as Basel III, is an international set of measures for banking institutions that include minimum capital requirements for a capital conservation buffer, a countercyclical capital buffer, a minimum leverage ratio, and liquidity requirements.
+16 Other methods of calculating yields on short-term securities include the money market yield (which is similar to the investment yield, but using 360 days in a year), and the effective annual yield (which is annualization that considers compounding.
+17 In finance nomenclature, a call option is an option to buy something, whereas a put option is the option to sell something.  In the case of the convertible bond, the conversion is the opportunity to “sell” the bond in exchange for stock.
+18 GOOG had a stock dividend in April 2014, with an adjustment factor of 0.4995. This means that prices prior to April 2014 have been adjusted in this graph by multiplying the stock price by 0.4995 to put these shares on the same number of shares basis as current shares.
+19 For a long time, the ex-dividend date was five days before the record date.  This was changed to three, then two, and then one as technology enabled faster settlements and better identification of ownership of stock.
+20 This is based on the requirements of the National Securities Markets Improvement Act of 1996.
+21 The Securities and Exchange Commission had issued a rule in December of 2004 [RIN3235-AJ25] that would require hedge funds to register with the SEC, but this was overturned in June 23, 2006 by a U.S. Appeals Court.
+22 Financial Analysts Journal, Vol. 61, No. 6, pp. 80-88.
+23 Many of these cases are referred to in the Securities and Exchange Commission “Registration Under the Advisers Act of Certain Hedge Fund Advisers: Final Rule,” Vol. 69, No. 237, December 10, 2004. See also “Japan: Fallen hedges,” by Benjamin Beasley-Murray, Global Finance, May 2003.
+24 For example, a commission-based advisor who recommends a buy-and-hold strategy (which is often the best strategy), would not make any commissions.  Hence, the need for commission-based advisors to recommend trading of stocks to generate commissions.
+25 Regulation Best Interest: The Broker-Dealer Standard of Conduct, Release No. 34-86031, File No. S7-07-18, effective September 10, 2019.
+26 However, this term has been used by some financial advisors to apply to individuals of all levels of net worth.
+---------------
+
+------------------------------------------------------------
+
+---------------
+
+------------------------------------------------------------
+
+
+
+
+Capital Markets											12
+
+
