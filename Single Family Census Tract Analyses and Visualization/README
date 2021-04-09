@@ -1,4 +1,4 @@
-RAUTHOR: JIM ZIELEMAN
+AUTHOR: JIM ZIELEMAN
 PROGRAM: ANALYSES AND VISUALIZATION OF SINGLE FAMILY CENSUS TRACT
 
 Plots to browser and also saves as jpeg in the same working directory as the python program.
