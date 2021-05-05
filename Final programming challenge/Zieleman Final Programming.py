@@ -72,5 +72,5 @@ axs[1, 1].legend(main1_df.columns)
 fig.suptitle("Analysis of Indices Returns")
 
 # Save subplot as jpg
-fig.savefig(fname = 'Zieleman', format = 'jpg')                               
+fig.savefig(fname = 'Zieleman.jpg')                               
                      
